@@ -1,0 +1,12 @@
+与orig_0.8_add.txt重复率: 0.88
+与orig_0.8_dis_10.txt重复率: 0.89
+与orig_0.8_dis_15.txt重复率: 0.89
+与orig_0.8_dis_1.txt重复率: 0.89
+与orig_0.8_del.txt重复率: 0.92
+与orig.txt的重复率: 1.00
+与orig_0.8_add.txt重复率: 0.88
+与orig_0.8_dis_10.txt重复率: 0.89
+与orig_0.8_dis_15.txt重复率: 0.89
+与orig_0.8_dis_1.txt重复率: 0.89
+与orig_0.8_del.txt重复率: 0.92
+与orig.txt的重复率: 1.00
